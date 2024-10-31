@@ -8,7 +8,8 @@
 
 ### **Fork**本仓库
 
-![图片加载失败](imgs/1.png)
+![1](https://github.com/user-attachments/assets/a55bc065-9108-4875-9541-96ab4d5e0c9f)
+
 
 ### 添加**secret**
 
