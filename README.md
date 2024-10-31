@@ -21,13 +21,15 @@
 
 - 切换到`Network`页面下，刷新
 
-![图片加载失败](imgs/2.png)
+![2](https://github.com/user-attachments/assets/157121fa-868c-490e-8d13-59437ffa41c1)
+
 
 - 点击第一个选项卡后在`Request Headers`下找到`Cookie`，右键复制cookie的值即可
 
   > 参考格式：koa:sess=eyJ1c2xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxAwMH0=; koa:sess.sig=xJkOxxxxxxxxxxxxxxxtnM;
 
-![图片加载失败](imgs/3.png)
+![3](https://github.com/user-attachments/assets/11661a99-53b4-4d22-bd32-f8681ae90c04)
+
 
 - 多账号请在 `COOKIES` 中 添加多个 `cookies` 中间使用 `&`连接即可。（例如： `c1&c3&c3...`）
 
@@ -37,7 +39,8 @@
 
 ### **star**自己的仓库
 
-![图片加载失败](imgs/4.png)
+![4](https://github.com/user-attachments/assets/06d75d9c-ab99-4b31-8074-d3dd37b4a10e)
+
 
 ## 文件结构
 
